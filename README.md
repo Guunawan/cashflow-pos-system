@@ -4,7 +4,7 @@ Modern Laravel POS & Sales Management System with clean architecture and respons
 
 Available on Gumroad:
 
-https://guunawan.gumroad.com
+https://guunawan.gumroad.com/l/cashflow-v1
 
 Available on Lynk:
 
