@@ -26,9 +26,7 @@ This application helps manage products, customers, sales transactions, and busin
 
 # Live Preview
 
-Project walkthrough and feature demonstration:
-
-https://youtube.com
+Live preview and walkthrough video will be available soon.
 
 ⸻
 
