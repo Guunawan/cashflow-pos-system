@@ -33,29 +33,17 @@ Live preview and walkthrough video will be available soon.
 # Main Features
 
 * Dashboard overview
-
 * POS cashier system
-
 * Product management
-
 * Category management
-
 * Customer management
-
 * Sales transaction management
-
 * Sales reports
-
 * Revenue analytics
-
 * Responsive sidebar and mobile layout
-
 * Clean architecture structure
-
 * Reusable Blade components
-
 * Pagination, filtering, and search
-
 * Product image upload support
 
 ⸻
@@ -174,7 +162,7 @@ Password: password
 
 # Installation Guide
 
-1. Extract the downloaded ZIP file
+## 1. Extract the downloaded ZIP file
 
 Open the project folder in terminal or command prompt.
 
