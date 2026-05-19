@@ -10,7 +10,7 @@ Available on Lynk:
 
 https://lynk.id/guunawan
 
-<img src="assets/Preview-Image.png" width="100%" />
+<img src="assets/Cover.png" width="100%" />
 
 Clean and modern point of sale and sales management system built with Laravel and Sneat Admin Dashboard.
 
@@ -66,57 +66,45 @@ https://youtube.com
 
 ## Dashboard
 
-<img src="assets/dashboard-1.jpg" width="100%" />
-
-<img src="assets/dashboard-2.jpg" width="100%" />
+<img src="assets/dashboard.png" width="100%" />
 
 ⸻
 
 ## POS Cashier
 
-<img src="assets/pos-cashier.jpg" width="100%" />
-
-<img src="assets/pos-cart.jpg" width="100%" />
-
-⸻
-
-## Responsive Layout
-
-<img src="assets/dashboard-responsive.jpg" width="100%" />
-
-<img src="assets/dashboard-responsive-open-sidebar.jpg" width="100%" />
+<img src="assets/POS-Cashier.png" width="100%" />
 
 ⸻
 
 ## Products
 
-<img src="assets/products.jpg" width="100%" />
+<img src="assets/product.png" width="100%" />
 
-<img src="assets/product-create-form.jpg" width="100%" />
-
-<img src="assets/product-edit-form.jpg" width="100%" />
-
-<img src="assets/product-table-empty.jpg" width="100%" />
-
-⸻
-
-## Categories
-
-<img src="assets/categories.jpg" width="100%" />
+<img src="assets/product-form.png" width="100%" />
 
 ⸻
 
 ## Customers
 
-<img src="assets/customers.jpg" width="100%" />
+<img src="assets/customers.png" width="100%" />
+
+⸻
+
+## Sales History
+
+<img src="assets/sales-history.png" width="100%" />
 
 ⸻
 
 ## Sales Reports
 
-<img src="assets/sales-reports.jpg" width="100%" />
+<img src="assets/sales-report.png" width="100%" />
 
-<img src="assets/sales-report-filter.jpg" width="100%" />
+⸻
+
+## Printable Invoice
+
+<img src="assets/printable-invoice.png" width="100%" />
 
 ⸻
 
