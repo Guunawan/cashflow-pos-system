@@ -26,7 +26,7 @@ This application helps manage products, customers, sales transactions, and busin
 
 # Live Preview
 
-Live preview and walkthrough video will be available soon.
+Product walkthrough and feature demo video will be available soon.
 
 ⸻
 
@@ -45,6 +45,9 @@ Live preview and walkthrough video will be available soon.
 * Reusable Blade components
 * Pagination, filtering, and search
 * Product image upload support
+* Persistent POS cart with local storage
+* Mobile floating cart experience
+* Printable transaction invoice
 
 ⸻
 
@@ -97,13 +100,10 @@ Live preview and walkthrough video will be available soon.
 # Technology Stack
 
 * Laravel 12
-
+* PHP 8.2
 * Bootstrap 5
-
 * Sneat Admin Dashboard
-
 * ApexCharts
-
 * Vanilla JavaScript
 
 ⸻
@@ -111,12 +111,10 @@ Live preview and walkthrough video will be available soon.
 # Included in Package
 
 * Full source code
-
 * Database migrations
-
 * Seeder with demo data
-
 * Documentation
+* Ready-to-use demo environment
 
 ⸻
 
@@ -226,10 +224,10 @@ The project includes:
 * Documentation
 * Clean project structure
 
-All required assets are included except the vendor directory.
+All required project assets are included except the vendor directory.
 
 ⸻
 
 # Tags
 
-pos system, point of sale, laravel, sales management, cashier system, admin dashboard, bootstrap, sneat, sales report, revenue analytics, customer management, product management, responsive dashboard, crud application, laravel 12, bootstrap 5
+pos system, point of sale, laravel pos, cashier system, sales management system, inventory management, admin dashboard, bootstrap 5, sneat dashboard, laravel 12, sales reports, revenue analytics, responsive dashboard, business management, crud application, ecommerce admin
