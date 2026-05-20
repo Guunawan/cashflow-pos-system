@@ -2,13 +2,14 @@ CashFlow v1.0 — POS & Sales Management System
 
 Modern Laravel POS & Sales Management System with clean architecture and responsive dashboard UI.
 
-Available on Gumroad
+Available on Gumroad:
 https://guunawan.gumroad.com/l/cashflow-v1
 
-Available on Lynk
+Available on Lynk:
 http://lynk.id/guunawan/2dnzz06wkngq
 
-store: https://lynk.id/guunawan
+More products:
+https://lynk.id/guunawan
 
 <img src="assets/Cover.png" width="100%" />
 
