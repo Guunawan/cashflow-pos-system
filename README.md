@@ -1,4 +1,4 @@
-CashFlow v1.0 — POS & Sales Management System
+#CashFlow v1.1 — POS & Sales Management System
 
 Modern Laravel POS & Sales Management System with clean architecture and responsive dashboard UI.
 
